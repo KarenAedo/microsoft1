@@ -1,0 +1,43 @@
+/*alinear los elementos de la página text-align sirve
+ para alinear tanto los textos como las imágenes*/
+
+
+body{
+	text-align: center;
+	font-family: 'Roboto', sans-serif
+}
+
+
+.cuadrado-color{
+	/* background-color: black; */
+	background-color:#FFFF00; 
+	/* background-color:rgb(48,66,75); */
+	padding-bottom:20px; /*dar espacio*/
+}
+
+p{
+	color:#FFFF00;
+	font-family: 'Roboto', sans-serif
+}
+ 
+/*cambiar tipografía*/
+h1{
+	
+}
+
+.fotogrupo{
+
+	width:600px; /*ancho de imagen*/
+	height:400px;
+}
+
+/*.fotogrupo{
+	width:400px;
+	heigth:400px;
+}
+
+/*hacer el separador*/
+.enlaces{
+	border-top:1px dotted black;
+/*buscar types border css*/
+}
